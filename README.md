@@ -1,3 +1,15 @@
+## 👨‍💻 About Me
+
+Hi, I'm Syed Moeez Ali Shah! 👋
+
+I am a final-year Computer Science student at the University of Management and Technology (Class of 2027), deeply passionate about Artificial Intelligence, Machine Learning, and Data Science. I focus on building practical ML projects and exploring how AI can solve real-world problems.
+
+* 💼 **Experience:** Recently completed a Software Engineering Internship at the Punjab Information Technology Board (PITB).
+* 🔭 **Currently Working On:** Building practical projects and enhancing my core techniques in Machine Learning, AI Engineering and Data Science.
+* 🌱 **Always Learning:** Constantly exploring new AI tools and optimizing coding workflows to build efficient, scalable solutions.
+* 📫 **Let's Connect:** [smoeez23@gmail.com](mailto:smoeez23@gmail.com) | [LinkedIn](https://www.linkedin.com/in/moeez-shah-099947407/)
+
+---
 ## 🛠️ Tech Stack & IDEs
 
 **Core Languages**
