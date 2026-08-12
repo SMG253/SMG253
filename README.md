@@ -1,36 +1,46 @@
-<div align="center">
+## 🛠️ Tech Stack & IDEs
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Syed+Moeez;Final+Year+CS+Student;Data+Scientist+%7C+AI+Engineer;Building+Intelligent+AI+Solutions;Python+%7C+Machine+Learning+%7C+Databases" alt="Typing SVG" />
+**Core Languages**
 
-<br/>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="55"/><br/><b>Python</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="55"/><br/><b>C++</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55"/><br/><b>SQL</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="55"/><br/><b>JavaScript</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="55"/><br/><b>HTML5</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="55"/><br/><b>CSS3</b></td>
+</tr>
+</table>
 
-<a href="https://www.linkedin.com/in/moeez-shah-099947407/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:smoeez23@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/SMG253">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**Databases, APIs & DevOps**
 
-</div>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="55"/><br/><b>PostgreSQL</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br/><b>MongoDB</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="55"/><br/><b>Postman (APIs)</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="55"/><br/><b>Docker</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="55"/><br/><b>Git</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="55"/><br/><b>GitHub</b></td>
+</tr>
+</table>
 
-<br/>
+**IDEs & Data Science Frameworks**
 
-## 👨‍💻 About Me
-
-```bash
-┌──(moeez㉿github)-[~/profile]
-└─$ whoami
-Syed Moeez
-
-┌──(moeez㉿github)-[~/profile]
-└─$ cat about_me.txt
-🎓 Final Year Computer Science Student
-🤖 Data Scientist, ML & AI Engineer
-🧠 Passionate about building intelligent AI projects, LLMs, and exploring data
-🌐 Skilled in Backend (PostgreSQL, MongoDB) & API Integration
-🐍 Python | C++ | SQL | JavaScript
-📚 Constantly learning new technologies and solving complex problems
-☕ Coffee + Code = Productivity
+<p align="left">
+  <!-- IDEs -->
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <br/>
+  <br/>
+  <!-- Data Science -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <!-- LLMs -->
+  <img src="https://img.shields.io/badge/OpenAI_LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_Pro-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
+</p>
