@@ -1,15 +1,42 @@
-## 👨‍💻 About Me
+<div align="center">
 
-Hi, I'm Syed Moeez Ali Shah! 👋
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Syed+Moeez;Final+Year+CS+Student;Data+Scientist+%7C+AI+Engineer;Building+Intelligent+AI+Solutions;Python+%7C+Machine+Learning+%7C+Databases" alt="Typing SVG" />
 
-I am a final-year Computer Science student at the University of Management and Technology (Class of 2027), deeply passionate about Artificial Intelligence, Machine Learning, and Data Science. I focus on building practical ML projects and exploring how AI can solve real-world problems.
+<br/>
 
-* 💼 **Experience:** Recently completed a Software Engineering Internship at the Punjab Information Technology Board (PITB).
-* 🔭 **Currently Working On:** Building practical projects and enhancing my core techniques in Machine Learning, AI Engineering and Data Science.
-* 🌱 **Always Learning:** Constantly exploring new AI tools and optimizing coding workflows to build efficient, scalable solutions.
-* 📫 **Let's Connect:** [smoeez23@gmail.com](mailto:smoeez23@gmail.com) | [LinkedIn](https://www.linkedin.com/in/moeez-shah-099947407/)
+<a href="https://www.linkedin.com/in/moeez-shah-099947407/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:smoeez23@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/SMG253">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
+</div>
+
+<br/>
+
+## 👨‍💻 Professional Summary
+
+```bash
+┌──(syed_moeez㉿github)-[~/portfolio]
+└─$ whoami
+Syed Moeez
+
+┌──(syed_moeez㉿github)-[~/portfolio]
+└─$ cat professional_summary.txt
+🎓 Final-Year CS Student | Aspiring AI Engineer & Data Scientist
+🧠 Specializing in Machine Learning, Statistical Analysis, and predictive modeling
+🌐 Experienced in building robust backend architectures and integrating AI systems
+⚙️ Focus areas: Exploratory Data Analysis, LLM deployments, and database optimization
+🌱 Continuously expanding expertise in scalable architectures and containerization
+📫 Always open to collaborating on innovative AI solutions and open-source projects
+```
+
+<br/>
+
 ## 🛠️ Tech Stack & IDEs
 
 **Core Languages**
@@ -55,4 +82,16 @@ I am a final-year Computer Science student at the University of Management and T
   <!-- LLMs -->
   <img src="https://img.shields.io/badge/OpenAI_LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_Pro-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SMG253&show_icons=true&theme=radical&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMG253&theme=radical&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakNum=C9D1D9&currStreakLabel=00F7FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMG253&layout=compact&theme=radical&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&hide_border=true" alt="Top Languages" />
 </p>
