@@ -86,12 +86,4 @@ Syed Moeez
 
 <br/>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SMG253&show_icons=true&theme=radical&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMG253&theme=radical&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakNum=C9D1D9&currStreakLabel=00F7FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMG253&layout=compact&theme=radical&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&hide_border=true" alt="Top Languages" />
-</p>
