@@ -29,7 +29,7 @@ Syed Moeez
 └─$ cat about_me.txt
 🎓 Final Year Computer Science Student
 🤖 Data Scientist, ML & AI Engineer
-🧠 Passionate about building intelligent AI projects and exploring data
+🧠 Passionate about building intelligent AI projects, LLMs, and exploring data
 🌐 Skilled in Backend (PostgreSQL, MongoDB) & API Integration
 🐍 Python | C++ | SQL | JavaScript
 📚 Constantly learning new technologies and solving complex problems
